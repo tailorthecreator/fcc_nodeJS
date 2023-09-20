@@ -1,13 +1,13 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Taishi Arai", 
 	"dependencies": {
 	  "express": "^4.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
 	  "start": "node server.js"
-	},
-	"author": "Taishi Arai", 
+	}, 
 	"repository": {
 	  "type": "git",
 	  "url": "https://idontknow/todo.git"
